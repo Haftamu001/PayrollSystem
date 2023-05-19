@@ -34,7 +34,7 @@
     <img src="images/H-Money.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">H-Money</h3>
 
   <p align="center">
     H-Money is payroll software application designed to automate and streamline the payroll management process for organizations.
