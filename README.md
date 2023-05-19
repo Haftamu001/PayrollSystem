@@ -37,7 +37,7 @@
 <h3 align="center">project_title</h3>
 
   <p align="center">
-    project_description
+    H-Money is payroll software application designed to automate and streamline the payroll management process for organizations.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
