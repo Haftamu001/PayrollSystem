@@ -103,6 +103,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
+* [![HTML][HTML.com]][HTML-url]
+* 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
