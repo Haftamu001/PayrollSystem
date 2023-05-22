@@ -211,7 +211,8 @@ Use this space to show useful examples of how a project can be used. Additional 
    - Select the filters or date range for the report, if applicable.
    
    - Click on the "Print" button to generate a printed version of the report.
-  <h3 align="center"><img src="images/Printing options"></h3>
+   
+  <h3 align="center"><img src="images/Printing options.png"></h3>
   
 _For more examples, please refer to the [Documentation](https://example.com)_
 
