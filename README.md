@@ -119,11 +119,18 @@ To run this code, ensure that you have the following:
 
 ### Installation
 
-1. Clone the repo
+1. Download C (website)
+   ```sh
+   https://code.visualstudio.com/
+   ````
+2. Dowbload Microsoft Access (website)
+   ```sh
+   https://www.microsoft.com/en-us/microsoft-365/access
+   ````
+3. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ````
-
 
 ## Getting Started
 
