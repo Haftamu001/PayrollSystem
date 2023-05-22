@@ -108,7 +108,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 Instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Prerequisites
 
 <!--This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -118,7 +118,7 @@ To get a local copy up and running follow these simple example steps.
 -->
 
 
-# Microsoft Access (Jet SQL) Connection in C Program
+### Microsoft Access (Jet SQL) Connection in C Program
 
 This repository provides an example of how to connect Microsoft Access (Jet SQL) to a C program using the Microsoft Data Access Components (MDAC).
 
