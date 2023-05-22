@@ -116,6 +116,24 @@ To run this code, ensure that you have the following:
 
 2. The appropriate ODBC driver for Microsoft Access installed.
 
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/github_username/repo_name.git
+   ````
+2. Comilation command using GCC on Linux
+   ```sh
+   $ gcc program_name.c -o program_name -lodbc
+   ````
+   
+3. Run the program
+   ```sh
+   $ ./program_name
+   ````
+
+
+
 ## Getting Started
 
 1. Clone this repository or download the code files.
@@ -150,21 +168,7 @@ The provided C program establishes a connection to a Microsoft Access database a
 
 Please note that you may need to modify the code and connection string based on your specific requirements and environment.
 
-### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ````
-2. Comilation command using GCC on Linux
-   ```sh
-   $ gcc program_name.c -o program_name -lodbc
-   ````
-   
-3. Run the program
-   ```sh
-   $ ./program_name
-   ````
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
