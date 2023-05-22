@@ -129,7 +129,7 @@ To run this code, ensure that you have the following:
    ````
 3. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/HaftamuM/Payroll_System.git
    ````
 
 ## Getting Started
