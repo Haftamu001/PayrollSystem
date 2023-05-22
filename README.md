@@ -74,7 +74,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-  
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -122,12 +121,6 @@ To run this code, ensure that you have the following:
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ````
-   
-2. Comilation command using GCC on Linux
-   ```sh
-   $ gcc program_name.c -o program_name -lodbc
-   ````
-
 
 
 ## Getting Started
