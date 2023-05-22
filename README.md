@@ -26,7 +26,7 @@
 
 [license-shield]: https://img.shields.io/bower/l/HTML?color=MIT&logo=MIT&logoColor=MIT&style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[[LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
