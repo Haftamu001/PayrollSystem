@@ -142,10 +142,13 @@ Replace `<path_to_your_database_file>` with the actual path to your Microsoft Ac
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<!--
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.-->
 <h3 align="center"><img src="images/HR Main Menu.png"></h3>
 <h3 align="center"><img src="images/AddEmployee.png"></h3>
+<h3 align="center"><img src="images/Update Employee.png"></h3>
+<h3 align="center"><img src="images/EnterEnmployeeHours.png"></h3>
+<h3 align="center"><img src="images/Printing options"></h3>
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
