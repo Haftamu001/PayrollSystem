@@ -177,19 +177,19 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 ## Key Features
 
-- Employee Management: Maintain a database of employees with their relevant information, such as name, position, salary, and tax details.
+- [ ] Feature 1 Employee Management: Maintain a database of employees with their relevant information, such as name, position, salary, and tax details.
 
-- Salary Calculation: Automatically calculate employee salaries based on predefined salary structures, including basic pay, allowances, deductions, and tax calculations.
+- [ ] Feature 2 Salary Calculation: Automatically calculate employee salaries based on predefined salary structures, including basic pay, allowances, deductions, and tax calculations.
 
-- Tax Management: Handle tax calculations and deductions according to local tax regulations. Generate tax reports and documents for compliance.
+            - [ ] Nested Feature Tax Management: Handle tax calculations and deductions according to local tax regulations. Generate tax reports and documents for compliance.
 
-- Paycheck Generation: Generate paychecks for employees, including detailed breakdowns of salary components and deductions.
+- [ ] Feature 3 Paycheck Generation: Generate paychecks for employees, including detailed breakdowns of salary components and deductions.
 
-- Reporting: Generate various reports related to payroll, including employee-wise salary summaries, tax reports, and payroll summaries for accounting purposes.
+- [ ] Feature 4 Reporting: Generate various reports related to payroll, including employee-wise salary summaries, tax reports, and payroll summaries for accounting purposes.
 
-- Security: Implement secure access controls to ensure that only authorized personnel can access and modify payroll data.
+- [ ] Feature 5 Security: Implement secure access controls to ensure that only authorized personnel can access and modify payroll data.
 
-- User-friendly Interface: Provide an intuitive and user-friendly interface for easy navigation and interaction with the system.
+- [ ] Feature 6 User-friendly Interface: Provide an intuitive and user-friendly interface for easy navigation and interaction with the system.
 
 
 
