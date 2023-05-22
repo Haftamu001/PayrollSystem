@@ -115,7 +115,50 @@ To get a local copy up and running follow these simple example steps.
   ```sh
   npm install npm@latest -g
   ```
--->
+--># Microsoft Access (Jet SQL) Connection in C Program
+
+This repository provides an example of how to connect Microsoft Access (Jet SQL) to a C program using the Microsoft Data Access Components (MDAC).
+
+## Prerequisites
+
+To run this code, ensure that you have the following:
+
+- A C compiler set up on your system.
+- The appropriate ODBC driver for Microsoft Access installed.
+
+## Getting Started
+
+1. Clone this repository or download the code files.
+
+2. Open the C program file in your preferred text editor or integrated development environment (IDE).
+
+3. Modify the connection string in the code to specify the path to your Microsoft Access database file:
+
+Replace `<path_to_your_database_file>` with the actual path to your Microsoft Access database file.
+
+4. Compile the C program using your C compiler. Make sure to link against the appropriate ODBC library.
+
+5. Run the compiled program.
+
+## Code Explanation
+
+The provided C program establishes a connection to a Microsoft Access database and executes a sample SQL query. Here's a brief overview of the code's structure:
+
+- The necessary header files are included to enable the use of ODBC functions.
+
+- Environment and connection handles are declared and initialized.
+
+- The code connects to the Access database using a connection string.
+
+- The connection status is checked, and if successful, SQL queries can be executed.
+
+- The program retrieves and processes the query results.
+
+- Finally, the database connection is closed, and resources are freed.
+
+Please note that you may need to modify the code and connection string based on your specific requirements and environment.
+
+
 ### Installation
 
 1. Clone the repo
@@ -126,10 +169,6 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm install
    ````
-3. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
