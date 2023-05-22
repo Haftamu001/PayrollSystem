@@ -113,7 +113,7 @@ To get a local copy up and running follow these simple example steps.
 
 To run this code, ensure that you have the following:
 
-1. A C compiler set up on your system.
+1. A C program/ compiler set up on your system.
 
 2. The appropriate ODBC driver for Microsoft Access installed.
 
