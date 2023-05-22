@@ -115,11 +115,13 @@ To get a local copy up and running follow these simple example steps.
   ```sh
   npm install npm@latest -g
   ```
---># Microsoft Access (Jet SQL) Connection in C Program
+-->
+## Prerequisites
+
+# Microsoft Access (Jet SQL) Connection in C Program
 
 This repository provides an example of how to connect Microsoft Access (Jet SQL) to a C program using the Microsoft Data Access Components (MDAC).
 
-## Prerequisites
 
 To run this code, ensure that you have the following:
 
