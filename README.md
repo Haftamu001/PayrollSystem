@@ -112,9 +112,9 @@ To get a local copy up and running follow these simple example steps.
 
 To run this code, ensure that you have the following:
 
-1- A C compiler set up on your system.
+1. A C compiler set up on your system.
 
-2- The appropriate ODBC driver for Microsoft Access installed.
+2. The appropriate ODBC driver for Microsoft Access installed.
 
 ## Getting Started
 
@@ -130,8 +130,9 @@ Replace `<path_to_your_database_file>` with the actual path to your Microsoft Ac
 
 5. Run the compiled program.
 
-### Microsoft Access (Jet SQL) Connection in C Program
 ## Code Explanation
+--
+### Microsoft Access (Jet SQL) Connection in C Program
 
 The provided C program establishes a connection to a Microsoft Access database and executes a sample SQL query. Here's a brief overview of the code's structure:
 
