@@ -74,7 +74,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+  
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -243,7 +243,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
+<!-- CONTACT 
 ## Contact
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
@@ -252,7 +252,7 @@ Project Link: [https://github.com/github_username/HaftamuMolla](https://github.c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+-->
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -264,8 +264,7 @@ Project Link: [https://github.com/github_username/HaftamuMolla](https://github.c
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-will  be displayed. Note that the precision estimates will vary by
-architecture/system.
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
