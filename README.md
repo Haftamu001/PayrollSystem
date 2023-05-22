@@ -146,7 +146,7 @@ Follow the instructions below to effectively use the H-Money software:
 <!--
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.-->
 
-<h3 align="center"><img src="images/HR Main Menu.png"></h3>
+
 1. HR Main Menu:
    - Launch the H-Money application.
   
@@ -157,8 +157,8 @@ Use this space to show useful examples of how a project can be used. Additional 
           - View Pay Stubs: Choose this option to view the pay stubs of employees. You can search for a specific employee's pay stub by entering their name or employee ID. The pay stubs will be displayed on the screen. <br />
           - Update Employee: Select this option to update employee information. You can search for an employee by name or employee ID, and then make the necessary changes to their details, such as position, salary, or tax information. Save the changes to update the employee's information in the system.<br />
           - Remove Employee: Choose this option to remove an employee from the system. Search for the employee you want to remove by name or employee ID, and then confirm the deletion. The employee's information will be permanently removed from the employee database.
-          
-<h3 align="center"><img src="images/AddEmployee.png"></h3>
+          <h3 align="center"><img src="images/HR Main Menu.png"></h3>
+
 1. Add an Employee:
    - Launch the H-Money application.
    
@@ -171,8 +171,8 @@ Use this space to show useful examples of how a project can be used. Additional 
    - Save the employee information.
    
    - The new employee will be added to the system and available for further management.
+<h3 align="center"><img src="images/AddEmployee.png"></h3>
 
-<h3 align="center"><img src="images/Update Employee.png"></h3>
 2. Update Employee Information:
    - Open the H-Money application.
    
@@ -185,8 +185,8 @@ Use this space to show useful examples of how a project can be used. Additional 
    - Update the desired employee information, such as position, salary, or tax details.
    
    - Save the changes to update the employee's information in the system.
+<h3 align="center"><img src="images/Update Employee.png"></h3>
 
-<h3 align="center"><img src="images/EnterEnmployeeHours.png"></h3>
 3. Admin: Add Employee Hours:
    - Access the H-Money software.
    
@@ -199,8 +199,8 @@ Use this space to show useful examples of how a project can be used. Additional 
    - Save the entered hours to record the employee's work details.
    
    - The added hours will be used for payroll calculations.
-   
-<h3 align="center"><img src="images/Printing options"></h3>
+   <h3 align="center"><img src="images/EnterEnmployeeHours.png"></h3>
+
 4. Print Reports:
    - Open the H-Money application.
    
@@ -211,6 +211,7 @@ Use this space to show useful examples of how a project can be used. Additional 
    - Select the filters or date range for the report, if applicable.
    
    - Click on the "Print" button to generate a printed version of the report.
+  <h3 align="center"><img src="images/Printing options"></h3>
   
 _For more examples, please refer to the [Documentation](https://example.com)_
 
