@@ -41,11 +41,12 @@
  H-Money is a payroll system aims to simplify and automate the payroll management process, ensuring accuracy, efficiency, and compliance with regulatory requirements.
  It offers a comprehensive set of features to handle all aspects of employee payroll and paycheck generation.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/HaftamuM/Payroll_System/blob/master/SRS%20(1).pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+<!--
     <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
+    ·-->
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
