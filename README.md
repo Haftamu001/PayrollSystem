@@ -149,12 +149,19 @@ Use this space to show useful examples of how a project can be used. Additional 
 <h3 align="center"><img src="images/HR Main Menu.png"></h3>
 1. ## HR Main Menu:
    - Launch the H-Money application.
+  
    - From the main menu, select the "HR" option.
+   
    - The HR menu provides the following options:
+   
           - Add Employee: Select this option to add a new employee to the system. Enter the required employee details, such as name, position, and salary. Save the employee information to add them to the employee database.
+         
           - View Pay Stubs: Choose this option to view the pay stubs of employees. You can search for a specific employee's pay stub by entering their name or employee ID. The pay stubs will be displayed on the screen.
+          
           - Update Employee: Select this option to update employee information. You can search for an employee by name or employee ID, and then make the necessary changes to their details, such as position, salary, or tax information. Save the changes to update the employee's information in the system.
+          
           - Remove Employee: Choose this option to remove an employee from the system. Search for the employee you want to remove by name or employee ID, and then confirm the deletion. The employee's information will be permanently removed from the employee database.
+          - 
 <h3 align="center"><img src="images/AddEmployee.png"></h3>
 1. ##  Add an Employee:
    - Launch the H-Money application.
