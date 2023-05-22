@@ -37,8 +37,8 @@
 <h3 align="center">H-Money</h3>
 
   <p align="center">
-    H-Money is payroll software application designed to automate 
-    and streamline the payroll management process for organizations.
+ H-Money is a payroll system aims to simplify and automate the payroll management process, ensuring accuracy, efficiency, and compliance with regulatory requirements.
+ It offers a comprehensive set of features to handle all aspects of employee payroll and paycheck generation.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -182,7 +182,25 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 ## Roadmap
+## Key Features
 
+- Employee Management: Maintain a database of employees with their relevant information, such as name, position, salary, and tax details.
+
+- Salary Calculation: Automatically calculate employee salaries based on predefined salary structures, including basic pay, allowances, deductions, and tax calculations.
+
+- Tax Management: Handle tax calculations and deductions according to local tax regulations. Generate tax reports and documents for compliance.
+
+- Paycheck Generation: Generate paychecks for employees, including detailed breakdowns of salary components and deductions.
+
+- Reporting: Generate various reports related to payroll, including employee-wise salary summaries, tax reports, and payroll summaries for accounting purposes.
+
+- Security: Implement secure access controls to ensure that only authorized personnel can access and modify payroll data.
+
+- User-friendly Interface: Provide an intuitive and user-friendly interface for easy navigation and interaction with the system.
+
+
+
+Please refer to the installation and usage sections in this README for instructions on setting up and using the Payroll System.
 - [ ] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
