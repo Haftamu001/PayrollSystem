@@ -134,8 +134,7 @@ To run this code, ensure that you have the following:
    ````
 -->
 
-
-## Getting Started
+## Getting Starte
 
 1. Clone this repository or download the code files.
 
