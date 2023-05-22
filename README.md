@@ -142,14 +142,46 @@ Replace `<path_to_your_database_file>` with the actual path to your Microsoft Ac
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+Follow the instructions below to effectively use the H-Money software:
 <!--
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.-->
+
 <h3 align="center"><img src="images/HR Main Menu.png"></h3>
 <h3 align="center"><img src="images/AddEmployee.png"></h3>
+1. **Add an Employee:**
+   - Launch the H-Money application.
+   - Navigate to the "Employee Management" section.
+   - Click on the "Add Employee" button.
+   - Enter the required employee details, such as name, position, and salary.
+   - Save the employee information.
+   - The new employee will be added to the system and available for further management.
+   - 
 <h3 align="center"><img src="images/Update Employee.png"></h3>
-<h3 align="center"><img src="images/EnterEnmployeeHours.png"></h3>
-<h3 align="center"><img src="images/Printing options"></h3>
+2. **Update Employee Information:**
+   - Open the H-Money application.
+   - Go to the "Employee Management" section.
+   - Locate the employee you want to update.
+   - Click on the employee's name or select the "Edit" option.
+   - Update the desired employee information, such as position, salary, or tax details.
+   - Save the changes to update the employee's information in the system.
 
+<h3 align="center"><img src="images/EnterEnmployeeHours.png"></h3>
+3. **Admin: Add Employee Hours:**
+   - Access the H-Money software.
+   - Proceed to the "Admin" section.
+   - Select the employee for whom you want to add hours.
+   - Specify the hours worked by the employee for a particular period.
+   - Save the entered hours to record the employee's work details.
+   - The added hours will be used for payroll calculations.
+   
+<h3 align="center"><img src="images/Printing options"></h3>
+4. **Print Reports:**
+   - Open the H-Money application.
+   - Navigate to the "Reports" section.
+   - Choose the desired report type, such as payroll summary or employee details.
+   - Select the filters or date range for the report, if applicable.
+   - Click on the "Print" button to generate a printed version of the report.
+   -
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
