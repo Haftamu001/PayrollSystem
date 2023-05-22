@@ -21,14 +21,13 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]-->
+[![Issues][issues-shield]][issues-url]--><div align="center">
 [![MIT License][license-shield]][license-url]
- 
-  [license-shield]: https://img.shields.io/bower/l/HTML?color=MIT&logo=MIT&logoColor=MIT&style=for-the-badge
+[license-shield]: https://img.shields.io/bower/l/HTML?color=MIT&logo=MIT&logoColor=MIT&style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
   
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
