@@ -181,7 +181,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [ ] Feature 2 Salary Calculation: Automatically calculate employee salaries based on predefined salary structures, including basic pay, allowances, deductions, and tax calculations.
 
-            - [ ] Nested Feature Tax Management: Handle tax calculations and deductions according to local tax regulations. Generate tax reports and documents for compliance.
+    - [ ] Nested Feature Tax Management: Handle tax calculations and deductions according to local tax regulations. Generate tax reports and documents for compliance.
 
 - [ ] Feature 3 Paycheck Generation: Generate paychecks for employees, including detailed breakdowns of salary components and deductions.
 
