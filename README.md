@@ -110,23 +110,14 @@ To get a local copy up and running follow these simple example steps.
 
 ## Prerequisites
 
-<!--This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
--->
+To run this code, ensure that you have the following:
 
+1- A C compiler set up on your system.
+2- The appropriate ODBC driver for Microsoft Access installed.
 
 ### Microsoft Access (Jet SQL) Connection in C Program
 
 This repository provides an example of how to connect Microsoft Access (Jet SQL) to a C program using the Microsoft Data Access Components (MDAC).
-
-
-To run this code, ensure that you have the following:
-
-- A C compiler set up on your system.
-- The appropriate ODBC driver for Microsoft Access installed.
 
 ## Getting Started
 
@@ -160,7 +151,6 @@ The provided C program establishes a connection to a Microsoft Access database a
 
 Please note that you may need to modify the code and connection string based on your specific requirements and environment.
 
-
 ### Installation
 
 1. Clone the repo
@@ -180,7 +170,6 @@ Please note that you may need to modify the code and connection string based on 
    ````
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
