@@ -167,11 +167,17 @@ Please note that you may need to modify the code and connection string based on 
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ````
-2. Install NPM packages
+2. Comilation command using GCC on Linux
    ```sh
-   npm install
+   $ gcc program_name.c -o program_name -lodbc
    ````
-
+   Example compilation command using Microsoft Visual Studio Command Prompt on Windows:
+   C:> cl program_name.c /link /out:program_name.exe odbc32.lib
+   
+3. Run the program
+   ```sh
+   $ ./program_name
+   ````
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
