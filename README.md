@@ -122,7 +122,7 @@ To run this code, ensure that you have the following:
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ````
-   <!---
+   
 2. Comilation command using GCC on Linux
    ```sh
    $ gcc program_name.c -o program_name -lodbc
@@ -132,7 +132,7 @@ To run this code, ensure that you have the following:
    ```sh
    $ ./program_name
    ````
--->
+
 
 ## Getting Starte
 
