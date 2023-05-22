@@ -160,8 +160,6 @@ Please note that you may need to modify the code and connection string based on 
    ```sh
    $ gcc program_name.c -o program_name -lodbc
    ````
-   Example compilation command using Microsoft Visual Studio Command Prompt on Windows:
-   ** C:> cl program_name.c /link /out:program_name.exe odbc32.lib **
    
 3. Run the program
    ```sh
