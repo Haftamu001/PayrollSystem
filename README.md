@@ -151,7 +151,7 @@ Replace `<path_to_your_database_file>` with the actual path to your Microsoft Ac
 
 ## Code Explanation
 
-### Microsoft Access (Jet SQL) Connection in C Program
+### Microsoft Access (Jet SQL) Connection in C Progr
 
 The provided C program establishes a connection to a Microsoft Access database and executes a sample SQL query. Here's a brief overview of the code's structure:
 
