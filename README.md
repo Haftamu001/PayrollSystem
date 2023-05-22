@@ -23,6 +23,10 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]--><div align="center">
 [![MIT License][license-shield]][license-url]
+ 
+  [license-shield]: https://img.shields.io/bower/l/HTML?color=MIT&logo=MIT&logoColor=MIT&style=for-the-badge
+[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+  
 [![LinkedIn][linkedin-shield]][linkedin-url]
 </div>
 
@@ -304,8 +308,11 @@ Project Link: [https://github.com/github_username/HaftamuMolla](https://github.c
 [forks-url]: https://github.com/github_username/repo_name/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
 [stars-url]: https://github.com/github_username/repo_name/stargazers
+
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
+
+
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
