@@ -300,7 +300,7 @@ Project Link: [https://github.com/github_username/HaftamuMolla](https://github.c
 * []()
 * []() -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
