@@ -137,28 +137,6 @@ Replace `<path_to_your_database_file>` with the actual path to your Microsoft Ac
 
 5. Run the compiled program.
 
-## Code Explanation
-
-### Microsoft Access (Jet SQL) Connection in C Progr
-
-The provided C program establishes a connection to a Microsoft Access database and executes a sample SQL query. Here's a brief overview of the code's structure:
-
-- The necessary header files are included to enable the use of ODBC functions.
-
-- Environment and connection handles are declared and initialized.
-
-- The code connects to the Access database using a connection string.
-
-- The connection status is checked, and if successful, SQL queries can be executed.
-
-- The program retrieves and processes the query results.
-
-- Finally, the database connection is closed, and resources are freed.
-
-Please note that you may need to modify the code and connection string based on your specific requirements and environment.
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -191,13 +169,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [ ] Feature 6 User-friendly Interface: Provide an intuitive and user-friendly interface for easy navigation and interaction with the system.
 
-
-
 Please refer to the installation and usage sections in this README for instructions on setting up and using the Payroll System.
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
