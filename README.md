@@ -116,7 +116,7 @@ To get a local copy up and running follow these simple example steps.
   npm install npm@latest -g
   ```
 -->
-## Prerequisites
+
 
 # Microsoft Access (Jet SQL) Connection in C Program
 
