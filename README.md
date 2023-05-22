@@ -127,12 +127,12 @@ To run this code, ensure that you have the following:
    ```sh
    $ gcc program_name.c -o program_name -lodbc
    ````
-   <!--
+  
 3. Run the program
    ```sh
    $ ./program_name
    ````
--->
+
 
 ## Getting Started
 
