@@ -1,5 +1,5 @@
 
-<a name="readme-top"></a>>
+<a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -127,14 +127,14 @@ To run this code, ensure that you have the following:
    ```sh
    $ gcc program_name.c -o program_name -lodbc
    ````
-   
+   <!--
 3. Run the program
    ```sh
    $ ./program_name
    ````
+-->
 
-
-## Getting Starte
+## Getting Started
 
 1. Clone this repository or download the code files.
 
