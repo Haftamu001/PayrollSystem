@@ -74,7 +74,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+   <!-- <li><a href="#acknowledgments">Acknowledgments</a></li>-->
   </ol>
 </details>
 
@@ -284,12 +284,12 @@ Project Link: [https://github.com/github_username/HaftamuMolla](https://github.c
 
 -->
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- ACKNOWLEDGMENTS
 ## Acknowledgments
 
 * []()
 * []()
-* []()
+* []() -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
